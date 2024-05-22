@@ -13,9 +13,6 @@ Welcome to Misits GitHub profile! We enjoy building software solutions and explo
 - LinkedIn: [misits](https://www.linkedin.com/company/misits)
 - Email: [hello@misits.ch](hello@misits.ch)
 
-## Partners
-- [Infomaniak](https://www.infomaniak.com/goto/fr/home?utm_term=664daa56ccbad)
-
 Feel free to reach out if you have any questions or if you'd like to collaborate on any exciting projects!
 
 ## Looking for a web hosting provider?
